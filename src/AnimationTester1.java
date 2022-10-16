@@ -78,6 +78,7 @@ class PlaneShape implements MovableShape{
         graphics2D.draw(front);
         graphics2D.draw(top);
         graphics2D.draw(bottom);
+
     }
 
 
